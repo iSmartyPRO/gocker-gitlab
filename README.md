@@ -6,7 +6,7 @@ GitLab предлагает решение для хранения кода и �
 
 ## Установка
 ```
-git clone https://github.com/iSmartyPRO/docker-gitlab.git gitlab
+git clone https://github.com/iSmartyPRO/gocker-gitlab.git gitlab
 cd gitlab
 vim .env
 ```
